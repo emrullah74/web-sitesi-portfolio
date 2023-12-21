@@ -6,4 +6,4 @@
 
 HTML, CSS ve JavaScript kullanılarak tasarlandı.
 
-![] (web-sitesi.gif)
+![](web-sitesi.gif)
